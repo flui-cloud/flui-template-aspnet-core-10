@@ -1,0 +1,9 @@
+bin
+obj
+.vs
+.vscode
+.idea
+.DS_Store
+*.user
+.env
+.env.local

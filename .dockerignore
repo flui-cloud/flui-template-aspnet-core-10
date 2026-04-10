@@ -1,0 +1,10 @@
+bin
+obj
+.vs
+.vscode
+.git
+.env
+.env.local
+README.md
+.dockerignore
+Dockerfile
